@@ -1,4 +1,4 @@
-// background.js (service worker)
+// background.js  (service worker)
 
 // Helper — write both settings at once
 async function setAutofill(enabled) {
